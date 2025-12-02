@@ -1,2 +1,4 @@
-# Credit-Debit-Banking-Analytics-Dashboard-
-A Tableau-based Credit &amp; Debit Banking Analytics Dashboard built using  Tableau ,Power Bi ,SQL and Excel. Includes KPIs, bank-wise transaction analysis, payment-method patterns, and monthly/quarterly financial trends
+Credit & Debit Banking Analytics Dashboard (Tableau | SQL | Excel / Power Bi)
+
+This project presents an interactive Credit & Debit Banking Transaction Dashboard developed in Tableau, supported by SQL for data extraction and Excel for preprocessing.
+The dashboard provides a complete analytical view of banking performance across multiple banks, branches, and transaction methods
