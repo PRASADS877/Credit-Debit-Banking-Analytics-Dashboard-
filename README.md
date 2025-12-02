@@ -1,4 +1,4 @@
-Credit & Debit Banking Analytics Dashboard (Tableau | SQL | Excel / Power Bi)
+Credit & Debit Banking Analytics Dashboard (Tableau | SQL | Excel / Power Bi) :
 
 This project presents an interactive Credit & Debit Banking Transaction Dashboard developed in Tableau, supported by SQL for data extraction and Excel for preprocessing.
 The dashboard provides a complete analytical view of banking performance across multiple banks, branches, and transaction methods.
@@ -21,3 +21,5 @@ Credit–Debit Ratio: 1.002
 Net Transaction Amount: 0.32M
 A/C Activity Ratio: 19.01
 Daily Average Transactions: 0.30K
+
+Dashboard Interaction > https://github.com/PRASADS877/Credit-Debit-Banking-Analytics-Dashboard-/blob/main/C%20%26%20D%20Bank%20Sumaary.png
